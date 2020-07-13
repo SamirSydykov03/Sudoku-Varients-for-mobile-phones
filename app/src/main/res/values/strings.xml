@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sudoku Varients</string>
+    <string name="HelloMessage">Hello! What game would you like to play?</string>
+    <string name="sudoku_x_four">Sudoku 4x4</string>
+    <string name="normal_sudoku">Sudoku 9x9</string>
+    <string name="sudoku_x_sixteen">Sudoku 16x16</string>
+    <string name="colour_sudoku">Colour Sudoku</string>
+    <string name="new_game">Difficulty</string>
+    <string name="easy_label">Easy</string>
+    <string name="Med_label">Medium</string>
+    <string name="Hard_label">Hard</string>
+
+
+</resources>
